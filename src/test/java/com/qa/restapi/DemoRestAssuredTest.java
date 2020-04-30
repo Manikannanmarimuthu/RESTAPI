@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
 
-public class DemoRestAssured {
+public class DemoRestAssuredTest {
 
 	@Test
 	public void verifyRestPost() {
